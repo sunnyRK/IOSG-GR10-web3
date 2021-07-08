@@ -1,0 +1,38 @@
+{ #6
+  "data": {
+    "pairDayDatas": [
+      {
+        "date": 1609891200,
+        "pairAddress": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852",
+        "reserveUSD": "165771415.7541569735532722746819858",
+        "totalSupply": "1.799607716541681518"
+      }
+    ]
+  }
+}
+
+{ #10
+  "data": {
+    "pairDayDatas": [
+      {
+        "date": 1610236800,
+        "pairAddress": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852",
+        "reserveUSD": "192814577.8092827991092825282731093",
+        "totalSupply": "2.034206108114986175"
+      }
+    ]
+  }
+}
+
+{
+  pairDayDatas(where:{
+    pairAddress: "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852"
+  	date: 1610236800
+  }) {
+    id
+    date
+    pairAddress
+    reserveUSD
+    totalSupply
+  }
+}

@@ -1,0 +1,60 @@
+Implermenet loss
+
+10000$
+5000$ eth => 5 eth
+5000$ usdt => 5000 usdt
+
+deposit 10000$
+get 10 lp
+
+3 months back
+
+after 3 months back
+15000$
+50% roi
+
+eth => 7500$ => 2500$ per eth => 3 eth
+usdt => 7500$ => 7500 usdt
+
+initially 
+user has 5 - 3 = 2
+
+5 * 2500 = 12500 $ eth
+5000 usdt +12500 eth = 17500 $
+
+15000 - 17500 = 2500$ loss
+
+
+15000$
+50% roi
+
+2500$ I.loss
+
+17500 -> 100% xxxxxxxxxxx
+2500 -> 14.2857% xxxxxxxxxxx
+
+15000 -> 100% correct one
+2500 -> 16.66%
+
+16566.4698 + 5018 = 21584.4698
+
+21584 - 19870 = 1714 $
+
+8.62
+
+351.008029$ eth 3 months back
+1163 $ right now
+
+
+
+
+eth wbtc
+
+eth => 8.62
+
+
+11350 btc
+36830.2023
+
+366 eth
+1170 eth
